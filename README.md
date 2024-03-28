@@ -7,7 +7,7 @@
 
  
 <br>
-## 🔨 My stack 🔨
+<h2> 🔨 My stack 🔨</h2>
 <div style="display:flex; flex-direction:column; align-items:flex-start;" align="center">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -46,9 +46,20 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heonamkyu93&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Heonamkyu93&show_icons=true">
+
+ <!--
 <div>
-<h3>Team-Project</h3>
-<img src="![melona](https://github.com/Heonamkyu93/Heonamkyu93/assets/132042040/3d820c74-4467-4843-b858-617b15164dfc)">
+<h2>Team-Project</h2>
+<div align="left" >
+  <img src="https://github.com/Heonamkyu93/Heonamkyu93/assets/132042040/a2464c5e-e6c9-4240-a772-c3fed85ee5a0" width="25" height="25" style="margin-right: 10;">
+ <span style="line-height: 50;">Melona</span>
+</div>
+
+
+
+
+
 
 </div>
 <h3>Project</h3>
+-->
