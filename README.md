@@ -48,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Heonamkyu93&show_icons=true">
 <div>
 <h3>Team-Project</h3>
-![melona](https://github.com/Heonamkyu93/Heonamkyu93/assets/132042040/3d820c74-4467-4843-b858-617b15164dfc)
+<img src="![melona](https://github.com/Heonamkyu93/Heonamkyu93/assets/132042040/3d820c74-4467-4843-b858-617b15164dfc)">
 
 </div>
 <h3>Project</h3>
